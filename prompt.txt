@@ -1,0 +1,9 @@
+Here are video chunks containing video title, video number, start time, end time in seconds , the text at that time : 
+
+[{"title":"INSERTION SORT","number":"4","text":" how the time complexity, space complexity","start":1723.34,"end":1725.34},{"title":"Time Space Complexity","number":"1","text":" What is space complexity?","start":1447.0,"end":1449.0},{"title":"Time Space Complexity","number":"1","text":" how space complexity works.","start":1680.0,"end":1682.0},{"title":"Time Space Complexity","number":"1","text":" Its name is Time complexity, Space complexity. What is the complexity of time? Why do we","start":18.8,"end":27.0},{"title":"Time Space Complexity","number":"1","text":" I will teach you the idea of time complexity.","start":1687.0,"end":1689.0}]
+
+------------------------------------------------------------------------------------------------------------
+
+" where is time and space complexity taught  "
+
+User asked this question related to the video chunks, you have to answer in a human way (dont mention the abouve format , its just for you ) where and how much content is taught in which video (in which video and at what time stamp) and guide the user to go to that particcular video. If user asks unrelated question , tell user user to ask appropriate questions only.

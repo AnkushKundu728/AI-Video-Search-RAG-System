@@ -1,0 +1,11 @@
+To answer your question, I found out that the topic "Time Space Complexity" is covered in a few videos.
+
+The user asked where Time and Space Complexity are taught, so I'd like to guide you to those specific videos. The first one starts at 18.8 seconds (Video Number 1) - You can find this video by searching for Video #1 in the playlist. In this video, the concept of time complexity is introduced.
+
+The second part of Time and Space Complexity is covered from 1447-1490 seconds (Video Number 1 again) - This section explains space complexity, so you can jump straight into it if that's what interests you most.
+
+Additionally, there are other parts of Time Space Complexity in videos #2 to #5. Video #2 starts at 1680-1698 seconds, video #3 at 1449-1457 seconds, and video #4 at 1687-1695 seconds - These videos will provide more insights on space complexity.
+
+If you're interested in learning about the idea of time complexity further, you can also check out Video #1 from 1680-1688 seconds. 
+
+Please note that while watching these videos, we'll be exploring concepts related to time and space complexities.
